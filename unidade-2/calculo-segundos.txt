@@ -1,0 +1,8 @@
+
+início 
+
+	var horas, minutos, total: inteiro;
+	leia horas, minutos
+	total = horas * 60 + minutos * 60
+	imprima "Se passaram " + total + " segundos. "
+fim

@@ -1,0 +1,8 @@
+
+início 
+
+	var anoNascimento, anoAtual, idade: inteiro;
+	leia anoNascimento, anoAtual
+	idade = anoNascimento - anoAtual
+	imprima "A sua idade é:  " + idade + " anos. "
+fim
